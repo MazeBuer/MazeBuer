@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mazikeen Buer</h1>
+<h1 align="center"><img height="500" width="1000" src="https://github.com/MazeBuer/API-Projects/blob/main/final_62814c28efa693005e362d27_653136.gif">
+
+
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that can impact businesses in a global scale</h3>
 
 <p align="center"> <a href="https://twitter.com/buer_maze" target="blank"><img src="https://img.shields.io/twitter/follow/buer_maze?logo=twitter&style=for-the-badge" alt="buer_maze" /></a> </p>
