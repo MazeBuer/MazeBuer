@@ -20,5 +20,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazebuer&show_icons=true&locale=en&layout=compact" alt="mazebuer" /></p>
 
-<p>&nbsp;<img width="450" src="https://github-readme-stats.vercel.app/api?username=mazebuer&show_icons=true&locale=en" alt="mazebuer"><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mazebuer&" alt="mazebuer" /></p>
+<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=mazebuer&show_icons=true&locale=en" alt="mazebuer"><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mazebuer&" alt="mazebuer" /></p>
 
