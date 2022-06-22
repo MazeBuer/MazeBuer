@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img height="400" width="1000" src="https://github.com/MazeBuer/Portfolio/blob/main/HeaderPhoto.png">
+<h1 align="center"><img height="350" width="900" src="https://github.com/MazeBuer/Portfolio/blob/main/HeaderPhoto.png">
 
 
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that can impact businesses in a global scale</h3>
