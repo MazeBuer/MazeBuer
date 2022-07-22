@@ -24,3 +24,7 @@
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazebuer&" alt="mazebuer" /></p>
 
+<p align="center"><img height="300" width="300" src="https://github.com/MazeBuer/StarTrek-API/blob/main/StarTrek_Aliens_AdobeExpress.gif"></p>
+<p align='center'>**Live Site** https://startrekalienguide.netlify.app</p>
+
+<p align="center"><img height="300" width="300" src="https://github.com/MazeBuer/NASAExploration/blob/main/css/images/NASAGif.gif"></p>
