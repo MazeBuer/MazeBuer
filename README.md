@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img height="350" width="900" src="https://raw.githubusercontent.com/MazeBuer/Portfolio/main/SWEBanner.png?token=GHSAT0AAAAAABWXVJZIQR4HTAG6COBHXFE4YW3NASA">
+<h1 align="center"><img height="350" width="900" src="https://github.com/MazeBuer/MazeBuer/blob/main/SWEBanner.png">
 
 
 <h3 align="center">I am a full-stack software engineer interested in creating web applications that can impact businesses in a global scale</h3>
