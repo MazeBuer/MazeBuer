@@ -86,7 +86,7 @@
     <td width="50%" valign="top">
       <h3 align="center">MazeBuer.com</h3>
         <br />
-        <a target="_blank" href="MazeBuer.com">
+        <a target="_blank" href="https://mazebuer.com/">
           <img src="https://github.com/MazeBuer/MazeBuer.com/blob/main/Portfolio_gif.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
@@ -95,7 +95,7 @@
   <a href="https://github.com/MazeBuer/MazeBuer.com.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="MazeBuer.com" target="_blank">
+  <a href="https://mazebuer.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
