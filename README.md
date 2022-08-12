@@ -46,7 +46,7 @@
         <p><strong>JavaScript, Node.JS, Express, NASA API</strong> - Educational platform where you can explore NASA's space photos based on planet and date. Don't forget to meet the brave astronauts!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Federation Filed Guide for Aliens</h3>
+      <h3 align="center">Federation Field Guide for Aliens</h3>
         <br />
       <a target="_blank" href="https://startrekalienguide.netlify.app/">
             <img src="https://github.com/MazeBuer/StarTrek-API/blob/main/StarTrek_Aliens_AdobeExpress.gif" width="100%"  alt="StarTrek App"/>
