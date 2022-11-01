@@ -87,7 +87,7 @@
       <h3 align="center">MazeBuer.com</h3>
         <br />
         <a target="_blank" href="https://mazebuer.com/">
-          <img src="https://github.com/MazeBuer/MazeBuer.com/blob/main/Portfolio_gif.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/MazeBuer/MazeBuer.com/blob/main/MazeBuer.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
